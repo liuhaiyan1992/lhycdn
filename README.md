@@ -1,0 +1,2 @@
+# lhycdn
+cdn resource
